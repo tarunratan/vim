@@ -9,3 +9,13 @@ vi <filename> or vim <filename> #To open a file using vim in termainal type
 press "i" to enter into insert mode to insert something into that file
 
 press esc and then :x # after all the file is written to save the changes made to the file and exit form vim 
+---------------------------------------------------------------------------------------
+#vimtutor
+             ^
+             k              Hint:  The h key is at the left and moves left.
+       < h       l >               The l key is at the right and moves right.
+             j                     The j key looks like a down arrow.
+             v
+--------------------------------------------------------------------------------------
+
+
