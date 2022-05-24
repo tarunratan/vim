@@ -1,0 +1,11 @@
+Opening vim and using it for dialy pupose as said by many people increases productivity of a person
+
+Listing all the basic vim commands that may help to interact as a fresher to learn the language
+
+
+--------------------------------
+vi <filename> or vim <filename> #To open a file using vim in termainal type
+
+press "i" to enter into insert mode to insert something into that file
+
+press escand then :x # after all the file is written to save the changes made to the file and exit form vim 
