@@ -18,4 +18,5 @@ press esc and then :x # after all the file is written to save the changes made t
              v
 --------------------------------------------------------------------------------------
 
-
+vi <filename>   -- to enter into vim from terminal
+:wq!            -- to save the file with all the new changes made into file
